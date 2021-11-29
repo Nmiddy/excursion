@@ -1,0 +1,51 @@
+html{
+background-color: black;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+color: whitesmoke;
+}
+
+header {
+    align: center;
+    text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+header a{
+    color: darkolivegreen;
+}
+
+video {
+    
+    margin-top: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+main{
+    align: center;
+    text-align: center;
+    margin: 10px;
+}
+
+img{
+    margin-top: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    align: center;
+    margin: 10px;
+}
+
+section {
+    padding: 10px;
+}
